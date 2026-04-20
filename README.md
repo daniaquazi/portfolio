@@ -25,6 +25,8 @@ I enjoy exploring complex datasets, building analytical pipelines, and turning r
 ### AWS Social Scraper — FinOps Project
 A serverless AWS pipeline scraping Hacker News using EventBridge, SQS, Lambda, S3 and Terraform. Built with cost efficiency as a first-class concern — reduced estimated monthly costs from $181 to ~$4-8 through deliberate architecture decisions.
 
+Skills: AWS, Terraform, Python, FinOps, CI/CD, GitHub Actions
+
 [View repo →](https://github.com/daniaquazi/aws-social-scraper)
 
 ---
