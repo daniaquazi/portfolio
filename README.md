@@ -40,8 +40,3 @@ Skills: web scraping, data wrangling, NLP, EDA, Tableau
 Analysis of London Airbnb listings using the Inside Airbnb public dataset. Includes SQL queries for business insights, sentiment analysis on guest reviews, regression to predict listing price, and a Power BI dashboard.
 
 Skills: SQL, Pandas, Scikit-learn, NLP, Power BI
-
----
-
-### Customer Review Analysis
-Analysis of tutoring service reviews to identify drivers of satisfaction.
