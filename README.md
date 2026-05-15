@@ -20,7 +20,7 @@ I enjoy exploring complex datasets, building analytical pipelines, and turning r
 ## Featured Projects
 
 ### Tutoring Review Sentiment Analysis *(coming soon)*
-Scrapes Trustpilot reviews for three tutoring companies (Tutorful, MyTutor, Superprof) and compares them side by side. The focus is on competitor analysis — which company has the best sentiment, what do customers complain about most, and what words come up in 1-star vs 5-star reviews. Includes keyword extraction per company, a model that predicts star rating from review text alone, and a Tableau dashboard comparing all three companies.
+Scrapes Trustpilot reviews for three tutoring companies (Tutorful, MyTutor, Superprof) and compares them side by side. The focus is on competitor analysis: which company has the best sentiment, what do customers complain about most, and what words come up in 1-star vs 5-star reviews. Includes keyword extraction per company, a model that predicts star rating from review text alone, and a Tableau dashboard comparing all three companies.
 
 Skills: web scraping, data wrangling, NLP, keyword extraction, machine learning, Tableau
 
