@@ -27,7 +27,7 @@ Skills: web scraping, data wrangling, NLP, keyword extraction, machine learning,
 ---
 
 ### London Airbnb Analysis
-Analysis of 60,000+ London Airbnb listings using the Inside Airbnb dataset. The focus is on pricing and geography — which boroughs are most expensive, how room type and superhost status affect price, and what guest reviews say about their stays. Includes SQL queries, TextBlob and VADER sentiment analysis, a regression model to predict nightly price, and an interactive Tableau dashboard with a choropleth map of London.
+Analysis of 60,000+ London Airbnb listings using the Inside Airbnb dataset. The focus is on pricing and geography: which boroughs are most expensive, how room type and superhost status affect price, and what guest reviews say about their stays. Includes SQL queries, TextBlob and VADER sentiment analysis, a regression model to predict nightly price, and an interactive Tableau dashboard with a choropleth map of London.
 
 Skills: SQL, Pandas, Scikit-learn, NLP, Tableau
 
@@ -36,7 +36,7 @@ Skills: SQL, Pandas, Scikit-learn, NLP, Tableau
 ---
 
 ### AWS Social Scraper — FinOps Project
-A serverless AWS pipeline scraping Hacker News using EventBridge, SQS, Lambda, S3 and Terraform. Built with cost efficiency as a first-class concern — reduced estimated monthly costs from $181 to ~$4-8 through deliberate architecture decisions.
+A serverless AWS pipeline scraping Hacker News using EventBridge, SQS, Lambda, S3 and Terraform. Built with cost efficiency as a first-class concern: reduced estimated monthly costs from $181 to ~$4-8 through deliberate architecture decisions.
 
 Skills: AWS, Terraform, Python, FinOps, CI/CD, GitHub Actions
 
